@@ -32,10 +32,18 @@ Logo -> https://lottiefiles.com/59973-loaderquiena
 Quiz Screen -> https://www.uplabs.com/posts/quiz-app-ui-e39d4066-3144-4060-9994-a212b086dad8
 
 ````
+
+## Functionalities 
+````
+Not let's explore some features that the app features..
+
+````
+
+
 ## App Snaps
+![2](https://user-images.githubusercontent.com/63596895/197179469-c8e017fb-2eaf-4235-8dcd-af1ccc44bfdd.png)
+![3](https://user-images.githubusercontent.com/63596895/197179537-d4cc748b-0648-4f00-b4d9-c27e46b96100.png)
+![4](https://user-images.githubusercontent.com/63596895/197179575-e8c1bcae-e456-4576-8f71-1e8769fa3a37.png)
 ![QUIZ (1)](https://user-images.githubusercontent.com/63596895/197168973-63f78735-d896-4d43-91bf-3902b5596a52.png)
-
-
-
-
+![QUIZ (2)](https://user-images.githubusercontent.com/63596895/197181347-62c97eeb-a1fc-476e-b6a3-940a1152e6b7.png)
 
