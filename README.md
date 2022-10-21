@@ -36,6 +36,13 @@ Quiz Screen -> https://www.uplabs.com/posts/quiz-app-ui-e39d4066-3144-4060-9994-
 ## Functionalities 
 ````
 Not let's explore some features that the app features..
+### Sign up with email & password 
+### Login with email & password 
+### Sign in with Google
+### Login and registration validation with provider
+### Exception handling
+### User records store in FireStore
+### Will be soon adding and writin in brief about each feature...
 
 ````
 
