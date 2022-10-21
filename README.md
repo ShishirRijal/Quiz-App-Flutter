@@ -24,9 +24,13 @@ Link ->
 
 ## Credits
 ````
-The app is inspired from the designs available in dribble and printerest and thus the UI credit goes 
-to the designer themselves. I'll also add the link to the UI I have implemented as credit to the designer.
+The app is inspired from the designs available in dribble and  our logo from lottie animation. 
+Thus the UI credit goes  to the designer themselves. 
+I'll also add the link to the UI I have implemented as credit to the designer.
 Links will soon be added, atleast before the completion of app..
+Logo -> https://lottiefiles.com/59973-loaderquiena
+Quiz Screen -> https://www.uplabs.com/posts/quiz-app-ui-e39d4066-3144-4060-9994-a212b086dad8
+
 ````
 ## App Snaps
 ![QUIZ (1)](https://user-images.githubusercontent.com/63596895/197168973-63f78735-d896-4d43-91bf-3902b5596a52.png)
